@@ -1,0 +1,7 @@
+torch
+transformers
+pandas
+numpy
+flask
+grafana
+psycopg2
