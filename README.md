@@ -1,5 +1,7 @@
 # Synapse Nexus: Multi-Agent AI for Intelligent Systems
 
+![Architecture Diagram](./docs/architecture-diagram.png)
+
 ## Overview
 
 **Synapse Nexus** is a cutting-edge multi-agent AI framework that combines reinforcement learning, generative models, and natural language processing. It enables agents to collaborate and solve complex decision-making tasks in dynamic environments.
