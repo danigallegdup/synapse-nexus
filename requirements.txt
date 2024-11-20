@@ -5,3 +5,7 @@ numpy
 flask
 grafana
 psycopg2
+Flask
+TensorFlow
+Transformers
+requests
